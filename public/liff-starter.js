@@ -128,7 +128,7 @@ function registerButtonHandlers() {
         } else {
             liff.sendMessages([{
                 'type': 'text',
-                'text': "Ko No DIO Da!!!\nWRYYYYYYYYYYY!!!!!!!!!"
+                'text': "Ko No DIO Da!!!\nWRYYYYYYYYYYY!!!!!!!!!\nhttps://youtu.be/e2Den66qhRQ?t=952"
             }]).then(function() {
                 window.alert('Message sent');
             }).catch(function(error) {
