@@ -128,7 +128,7 @@ function registerButtonHandlers() {
         } else {
             liff.sendMessages([{
                 'type': 'text',
-                'text': "You've successfully sent a message! Hooray!"
+                'text': "Ko No DIO Da!!!\nWRYYYYYYYYYYY!!!!!!!!!"
             }]).then(function() {
                 window.alert('Message sent');
             }).catch(function(error) {
